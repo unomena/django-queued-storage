@@ -1,4 +1,4 @@
-__version__ = "0.6"
+__version__ = "0.6.unomena"
 
 
 def version_hook(config):
